@@ -29,6 +29,7 @@ The fun of the project is figuring out ways to solve through algorithms/mathemat
 | 20 | [Factorial digit sum](https://projecteuler.net/problem=20) | [Solution](/problem20/problem20.py) |
 | 21 | [Amicable numbers](https://projecteuler.net/problem=21) | [Solution](/problem21/problem21.py) |
 | 22 | [Names scores](https://projecteuler.net/problem=22) | [Solution](/problem22/problem22.py) |
+| 23 | [Non-abundant sums](https://projecteuler.net/problem=23) | [Solution](/problem23/problem23.py) |
 | 24 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [Solution](/problem24/problem24.py) |
 | 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [Solution](/problem25/problem25.py) |
 | 28 | [Number spiral diagonals](https://projecteuler.net/problem=28) | [Solution](/problem28/problem28.py) |
