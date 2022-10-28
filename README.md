@@ -36,6 +36,7 @@ The fun of the project is figuring out ways to solve through algorithms/mathemat
 | 27 | [Quadratic primes](https://projecteuler.net/problem=27) | [Solution](/problem26/problem27.py) |
 | 28 | [Number spiral diagonals](https://projecteuler.net/problem=28) | [Solution](/problem28/problem28.py) |
 | 29 | [Distinct powers](https://projecteuler.net/problem=29) | [Solution](/problem29/problem29.py) |
+| 31 | [Coin sums](https://projecteuler.net/problem=31) | [Solution](/problem31/problem31.py) |
 | 30 | [Digit fifth powers](https://projecteuler.net/problem=30) | [Solution](/problem30/problem30.py) |
 | 34 | [Digit factorials](https://projecteuler.net/problem=34) | [Solution](/problem34/problem34.py) |
 | 35 | [Circular primes](https://projecteuler.net/problem=35) | [Solution](/problem35/problem35.py) |
