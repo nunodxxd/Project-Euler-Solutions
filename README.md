@@ -33,6 +33,7 @@ The fun of the project is figuring out ways to solve through algorithms/mathemat
 | 24 | [Lexicographic permutations](https://projecteuler.net/problem=24) | [Solution](/problem24/problem24.py) |
 | 25 | [1000-digit Fibonacci number](https://projecteuler.net/problem=25) | [Solution](/problem25/problem25.py) |
 | 26 | [Reciprocal cycles](https://projecteuler.net/problem=26) | [Solution](/problem26/problem26.py) |
+| 27 | [Quadratic primes](https://projecteuler.net/problem=27) | [Solution](/problem26/problem27.py) |
 | 28 | [Number spiral diagonals](https://projecteuler.net/problem=28) | [Solution](/problem28/problem28.py) |
 | 29 | [Distinct powers](https://projecteuler.net/problem=29) | [Solution](/problem29/problem29.py) |
 | 30 | [Digit fifth powers](https://projecteuler.net/problem=30) | [Solution](/problem30/problem30.py) |
