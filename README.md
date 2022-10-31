@@ -39,6 +39,7 @@ The fun of the project is figuring out ways to solve through algorithms/mathemat
 | 30 | [Digit fifth powers](https://projecteuler.net/problem=30) | [Solution](/problem30/problem30.py) |
 | 31 | [Coin sums](https://projecteuler.net/problem=31) | [Solution](/problem31/problem31.py) |
 | 32 | [Pandigital productss](https://projecteuler.net/problem=32) | [Solution](/problem32/problem32.py) |
+| 33 | [Digit cancelling fractions](https://projecteuler.net/problem=33) | [Solution](/problem32/problem33.py) |
 | 34 | [Digit factorials](https://projecteuler.net/problem=34) | [Solution](/problem34/problem34.py) |
 | 35 | [Circular primes](https://projecteuler.net/problem=35) | [Solution](/problem35/problem35.py) |
 | 36 | [Double-base palindromes](https://projecteuler.net/problem=36) | [Solution](/problem36/problem36.py) |
